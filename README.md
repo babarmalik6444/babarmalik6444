@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Solidity, Web3.js**
 
-- 📫 Reach me at **babarmalik6444@gmail.com**
+- 📫 Reach me at **babarafxal1@gmail.com**
 
 - 📄 Have look at my journy [Babar Afzaal](https://www.linkedin.com/in/afxalmalik/)
 
