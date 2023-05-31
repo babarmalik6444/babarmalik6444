@@ -4,7 +4,7 @@
 - 💬 Ask me about **PHP | Javascript | Laravel | Codeigniter | Shopware | Symphony | MySQL | Vue Js | Nuxt Js | Node Js | Typescript | HTML5 | CSS | GraphQL | JQuery | RESTful services and JSON | Composer | ES6 | GIT | CI/CD | Jenkins | Docker | PHPUnit Testing | AWS | Solidity | Guzzle | Swagger | Webpack | MVC | Agile**
 
 
-- 🌱 I’m currently learning **Solidity, Web3.js**
+- 🌱 I’m currently learning **Node JS**
 
 - 📫 Reach me at **babarafxal1@gmail.com**
 
